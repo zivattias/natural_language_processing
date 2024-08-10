@@ -1,1 +1,1 @@
-Due to Github file size limit, you are asked to download the dataset (note: first Parquet file is enough) from [here](https://huggingface.co/datasets/Cohere/wikipedia-22-12-en-embeddings) and unzip it inside `src/data/cnn_dailymail`.
+Due to Github file size limit, you are asked to download the dataset (note: first Parquet file is enough) from [here](https://huggingface.co/datasets/Cohere/wikipedia-22-12-en-embeddings) and unzip it inside `src/data/wikipedia-22-12-en-embeddings`.
