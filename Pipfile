@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+datasets = "*"
+transformers = "*"
+accelerate = "*"
+pandas = "*"
+scikit-learn = "*"
+matplotlib = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+nltk = "*"
+tensorflow = "*"
+tf-keras = "*"
+
+[dev-packages]
+ipykernel = "*"
+notebook = "*"
+
+[requires]
+python_version = "3.9"

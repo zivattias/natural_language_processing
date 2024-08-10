@@ -1,0 +1,1 @@
+Due to Github file size limit, you are asked to download the dataset from [here](https://huggingface.co/datasets/abisee/cnn_dailymail) and unzip it inside `src/data/cnn_dailymail`.
